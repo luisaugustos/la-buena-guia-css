@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://github.com/luisaugustos/la-buena-guia-html/blob/main/github-pictures/css3_logo.webp" width="300px"/>
+    <img src="https://github.com/luisaugustos/la-buena-guia-css/blob/master/github-pictures/css3_logo.webp" width="300px"/>
 </div>
 
 <br/>
